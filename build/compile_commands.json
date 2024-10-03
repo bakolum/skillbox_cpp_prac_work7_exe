@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/batyr/Desktop/skillbox/EXE/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/test-shared-matrix.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\test-shared-matrix.dir\\src\\test-shared-matrix.cpp.obj -c C:\\Users\\batyr\\Desktop\\skillbox\\EXE\\src\\test-shared-matrix.cpp",
+  "file": "C:/Users/batyr/Desktop/skillbox/EXE/src/test-shared-matrix.cpp",
+  "output": "CMakeFiles/test-shared-matrix.dir/src/test-shared-matrix.cpp.obj"
+}
+]
